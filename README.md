@@ -1,5 +1,3 @@
-# Doreen-US-B2Visa-Scheduler
-To monitor the latest released time slots for US Visa(B2)
 # Doreen US B1/B2 Visa Appointment Monitor
 
 A Chromium browser extension for monitoring earlier U.S. visa appointment
